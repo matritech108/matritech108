@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matritech108
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
+- ✨ I know Python, HTML and CSS
 
 
 <!---
